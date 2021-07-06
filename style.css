@@ -51,7 +51,7 @@ h1{
 .Another{
     padding-left:3%;
     padding-right: 3%;
-    padding-bottom: 30%;
+    padding-bottom: 20%;
 }
 .row{
     display: flex;
@@ -68,13 +68,14 @@ h1{
 
 }
 .social{
+    height:0px;
     width: 80%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 10%;
-    border-radius:20px;
-    box-shadow:2% 2% 4% blueviolet;
-    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom:5%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px pink;
 }
 .fix{
     margin-left: 10%;
