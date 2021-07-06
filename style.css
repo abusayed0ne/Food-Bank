@@ -44,7 +44,7 @@ h1{
     margin-right: 1.5%;
     padding: 15px;
     border-radius: 20px;
-    box-shadow: 10px 10px 40px pink;
+    box-shadow: 10px 10px 40px rgba(236, 213, 219, 0.897);
     
     
   }
@@ -62,10 +62,10 @@ h1{
     border-radius: 20px;
 }
 .bottom{
-    padding-bottom: 4%;
-    background-color: rgba(78, 214, 24, 0.801);
+    padding-top:1%;
+    padding-bottom:3%;
+    background-color: rgb(0, 0, 0);
     text-align: center;
-
 }
 .social{
     height:0px;
@@ -74,10 +74,13 @@ h1{
     margin-right: 10%;
     margin-top: 5%;
     margin-bottom:5%;
-    border-radius: 30px;
-    box-shadow: 10px 10px 40px pink;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px rgba(192, 204, 151, 0.938) ;
 }
 .fix{
     margin-left: 10%;
     margin-right: 10%;
+}
+.another-color{
+    color: white;
 }
