@@ -35,3 +35,48 @@ h1{
     background-repeat: no-repeat;
 
 }
+.branch{
+    text-align: center;
+}
+.column {
+    width: 30%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px pink;
+    
+    
+  }
+.Another{
+    padding-left:3%;
+    padding-right: 3%;
+    padding-bottom: 30%;
+}
+.row{
+    display: flex;
+}
+.images-size{
+    height:310px;
+    width: 310px;
+    border-radius: 20px;
+}
+.bottom{
+    padding-bottom: 4%;
+    background-color: rgba(78, 214, 24, 0.801);
+    text-align: center;
+
+}
+.social{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    border-radius:20px;
+    box-shadow:2% 2% 4% blueviolet;
+    padding: 20px;
+}
+.fix{
+    margin-left: 10%;
+    margin-right: 10%;
+}
